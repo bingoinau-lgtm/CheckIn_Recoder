@@ -15,9 +15,7 @@ A sleek check-in tool with count-up and countdown modes.
 
 •	原生性能与动效调优：
 
-•	移除所有耗时的同步阻塞初始化，延迟加载定位组件，彻底解决冷启动白屏痛点。
-
-•	采用平整扁平化的原生 .borderedProminent 按钮渲染，杜绝了系统立体阴影的杂色溢出。
+•	采用平整扁平化的原生按钮，杜绝了系统立体阴影的杂色溢出。
 
 •	适配中英双语环境，Picker 选项直观平铺带 Checkmark 标注，操作路径极短。
 
