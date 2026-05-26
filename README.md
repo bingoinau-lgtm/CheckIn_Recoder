@@ -14,3 +14,6 @@ A sleek check-in tool with count-up and countdown modes.
 代码层面经过多轮重构，保持了纯净的生命周期管理。欢迎大家下载/试用交流，也欢迎提 Issue 和建议！
 🏷️ 标签：
 #SwiftUI #SwiftData #独立开发 #iOS应用 #效率工具 #开源分享
+
+
+技术支持/客服邮箱：Bingoinau@gmail.com
