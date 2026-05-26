@@ -1,5 +1,7 @@
 # CheckIn_Recoder
 A sleek check-in tool with count-up and countdown modes.
+
+
 各位 V 友/开发者好，最近顺手写了一款旨在解决“特定项目/次卡习惯记录”的小工具 —— Check-In Recorder。
 💡 开发初衷：
 市面上的习惯打卡 App 大多过于臃肿，要么塞满了社交打卡圈，要么充斥着复杂的图表和订阅制。而我只是想单纯地记录自己的网球课上了几次，或者充值的次卡还剩多少次，并顺便留存当时的上课地点。于是，我用 SwiftUI + SwiftData 搓了这款产品。
@@ -12,6 +14,8 @@ A sleek check-in tool with count-up and countdown modes.
 •	适配中英双语环境，Picker 选项直观平铺带 Checkmark 标注，操作路径极短。
 •	数据全本地化：零网络依赖（除地图搜索外），数据安全地存储在用户本地沙盒中。
 代码层面经过多轮重构，保持了纯净的生命周期管理。欢迎大家下载/试用交流，也欢迎提 Issue 和建议！
+
+
 🏷️ 标签：
 #SwiftUI #SwiftData #独立开发 #iOS应用 #效率工具 #开源分享
 
